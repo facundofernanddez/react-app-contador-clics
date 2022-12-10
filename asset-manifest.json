@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-app-contador-clics/static/css/main.5bbc5561.css",
+    "main.js": "/react-app-contador-clics/static/js/main.50cd4bf1.js",
+    "index.html": "/react-app-contador-clics/index.html",
+    "main.5bbc5561.css.map": "/react-app-contador-clics/static/css/main.5bbc5561.css.map",
+    "main.50cd4bf1.js.map": "/react-app-contador-clics/static/js/main.50cd4bf1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bbc5561.css",
+    "static/js/main.50cd4bf1.js"
+  ]
+}
